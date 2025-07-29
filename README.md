@@ -13,13 +13,13 @@ Nội san là một ấn phẩm thường niên của CLB Sinh viên nghiên c�
 1. Vào phần **Code**
 
 <div align="center">
-  <img width="1231" height="118" alt="step1" src="https://github.com/user-attachments/assets/2fb8839a-3e0f-45a9-902f-e8da52371ada" />
+  <img width="469" height="58" alt="step1" src="https://github.com/user-attachments/assets/bc916171-68e4-4245-930d-a002943bbe68" />
 </div>
 
 2. Tải tệp *.zip*
 
 <div align="center">
-  <img width="391" height="287" alt="step2" src="https://github.com/user-attachments/assets/b275125d-13ec-425e-b89c-a5b9338ae479" />
+  <img width="391" height="287" alt="step2" src="https://github.com/user-attachments/assets/a0988ec3-cf74-4c86-b4ef-3e39dab0a842" />
 </div>
 
 ### Cấu trúc
