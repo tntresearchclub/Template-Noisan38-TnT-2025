@@ -1,0 +1,100 @@
+\input{package.tex}
+
+\begin{document}
+
+\resetsections
+\resetarticledata
+\resetalltheorems
+
+
+\begin{frontmatter}
+
+\title{Nguyễn Du và kiệt tác Truyện Kiều}
+
+\author[First]{Tác giả 1}
+\author[Second]{Tác giả 2}
+\author[Third]{Tác giả 3}
+
+
+\address[First]{Thông tin tác giả 1 }
+\address[Second]{Thông tin tác giả 2}
+\address[Third]{Thông tin tác giả 3}
+
+\end{frontmatter}
+
+\VnArticleInfo
+  {01/01/2025} % 1: Ngày nhận
+  {02/01/2025} % 2: Ngày duyệt
+  {Tên biên tập viên} % 3: Người biên tập
+  {Truyện Kiều, Nguyễn Du} %4: Từ khóa
+  {Có thuyết nói Nguyễn Du viết Truyện Kiều sau khi đi sứ Trung Quốc
+(1814–1820). Lại có thuyết nói ông viết trước khi đi sứ, có thể vào khoảng cuối
+thời Lê đầu thời Tây Sơn.[1] Thuyết sau được nhiều người chấp nhận hơn.[2]
+Ngay sau khi ra đời, Truyện Kiều được nhiều nơi khắc in và lưu hành rộng rãi.
+Hai bản in xưa nhất hiện còn là bản của Liễu Văn Đường (1871) và bản của
+Duy Minh Thị (1872), đều ở thời vua Tự Đức.[2] Truyện dựa theo cốt truyện
+văn xuôi Kim Vân Kiều của Thanh Tâm Tài Nhân[3], lấy bối cảnh Trung Quốc
+thời vua Gia Tĩnh Đế đời nhà Minh (từ năm 1521 tới năm 1567).} %5. Tóm tắt
+\section{Các Môi Trường Chính}
+
+
+\begin{dn}
+    Nội dung Định nghĩa 
+\end{dn}
+
+\begin{dl}
+   Nội dung Định lý
+\end{dl}
+
+\begin{cm}
+    
+\end{cm}
+
+\begin{hq}
+    Nội dung Hệ quả
+\end{hq}
+
+\begin{bd}
+    Nội dung Bổ đề
+\end{bd}
+
+\begin{md}
+    Nội dung Mệnh đề
+\end{md}
+
+\begin{vd}
+    Nội dung Ví dụ
+\end{vd}
+
+\section{Công Thức Toán học}
+
+Gõ công thức toán trong LaTeX có thể thực hiện bằng cú pháp inline $a^2 + b^2 = c^2$ hoặc dạng block:
+\begin{equation}
+    E = mc^2
+\end{equation}
+Ngoài ra, có thể sử dụng môi trường \texttt{align} để căn chỉnh nhiều dòng phương trình:
+\begin{align}
+    x + y &= 10 \\
+    x - y &= 4
+\end{align}
+Sử dụng môi trường \texttt{align*} nếu không cần đánh số cho phương trình
+\begin{align*}
+    x + y &= 10 \\
+    x - y &= 4
+\end{align*}
+
+\section{Chèn Hình Ảnh}
+
+\begin{figure}[h!]
+\includegraphics[width=0.7\textwidth]{Images/tree.jpg}
+    \centering
+    \caption{Tiêu đề ảnh}
+    \label{Hình 1}
+\end{figure}
+
+\newpage
+\bibliography{reference}
+\bibliographystyle{plain}
+\nocite{*}
+
+\end{document}
