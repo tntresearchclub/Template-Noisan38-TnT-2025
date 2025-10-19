@@ -61,7 +61,7 @@ Sau khi tải xuống, thư mục sẽ có cấu trúc:
 ## Một số lưu ý
 
 * Không nên chỉnh sửa các thư mục *Config*, *Logos* và các tệp *package.tex*, *README.md*
-* Nếu muốn thêm các gói, tác giả thêm trực tiếp vào tệp *main.text*, trước ```\begin{document}``` (không thêm vào tệp *package.tex*)
+* Nếu muốn thêm các gói (packages), tác giả thêm trực tiếp vào tệp *main.text*, trước ```\begin{document}``` (không thêm vào tệp *package.tex*)
 
 ## Liên hệ
 
