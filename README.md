@@ -67,6 +67,6 @@ Sau khi tải xuống, thư mục sẽ có cấu trúc:
 
 Nếu có bất kì thắc mắc hay đóng góp, vui lòng liên hệ:
 
-* Số điện thoại: [0941 909 775](tel:0941909775)
+* Số điện thoại: [0941 909 775](tel:0941909775) (về repository này)
 * Email: tntresearchclub.hnue@gmail.com
 * Facebook: [CLB SV Nghiên cứu khoa học khoa Toán Tin - T&T Research Club HNUE](https://www.facebook.com/HNUE.TnTResearchClub)
