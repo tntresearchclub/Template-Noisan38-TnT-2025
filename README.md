@@ -1,10 +1,10 @@
 # Mẫu Nội san T&T số 38 (2025)
 
-Đây là bản hướng dẫn sử dụng mẫu Nội san số 38 cho các tác giả có nhu cầu nộp bài viết.
+Đây là bản hướng dẫn sử dụng mẫu Nội san số 38 cho các tác giả có nhu cầu nộp bài viết. Mẫu này có thể được sử dụng lại cho các kỳ Nội san về sau.
 
-## Tổng quan
+## Về Nội san
 
-Nội san là một ấn phẩm thường niên của CLB Sinh viên nghiên cứu khoa học, khoa Toán-Tin, trường Đại học Sư phạm Hà Nội.
+Nội san T&T là một ấn phẩm thường niên của CLB Sinh viên nghiên cứu khoa học, khoa Toán-Tin (nay là trường Toán học và Công nghệ thông tin), trường Đại học Sư phạm Hà Nội.
 
 ## Hướng dẫn sử dụng và nộp bài
 
@@ -67,6 +67,6 @@ Sau khi tải xuống, thư mục sẽ có cấu trúc:
 
 Nếu có bất kì thắc mắc hay đóng góp, vui lòng liên hệ:
 
-* Số điện thoại: [0941 576 489](tel:0941576489)
+* Số điện thoại: [0941 909 775](tel:0941909775)
 * Email: tntresearchclub.hnue@gmail.com
 * Facebook: [CLB SV Nghiên cứu khoa học khoa Toán Tin - T&T Research Club HNUE](https://www.facebook.com/HNUE.TnTResearchClub)
