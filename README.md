@@ -54,7 +54,7 @@ Sau khi tải xuống, thư mục sẽ có cấu trúc:
 ### Khi nộp bài viết
 
 * Sau khi hoàn thành bài viết, tác giả có thể nộp toàn bộ thư mục làm việc cuối cùng hoặc nộp dưới dạng tệp *.zip* sau khi nén toàn bộ thư mục (thư mục làm việc cuối cùng, từ đây gọi tắt là *thư mục cuối*)
-* Tác giả nộp *thư mục cuối* theo đường dẫn: [Tiếp nhận sản phẩm NỘI SAN T&T SỐ 39]([https://forms.gle/Xwj3T8QZ7eAu8GPC7](https://docs.google.com/forms/d/e/1FAIpQLSfQXmQHWc6JQyxUJXG-1YfdflpgazqB5fGe-g8UpeICv8IozA/viewform))
+* Tác giả nộp *thư mục cuối* theo đường dẫn: [Tiếp nhận sản phẩm NỘI SAN T&T SỐ 39](https://docs.google.com/forms/d/e/1FAIpQLSfQXmQHWc6JQyxUJXG-1YfdflpgazqB5fGe-g8UpeICv8IozA/viewform)
 * Cấu trúc của *thư mục cuối* tương tự với cấu trúc của thư mục gốc được đề cập ở mục [Cấu trúc](#cấu-trúc)
 
 
